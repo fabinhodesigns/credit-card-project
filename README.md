@@ -1,7 +1,7 @@
 <h1 align="center"> Credit Card Project </h1>
 
 <p align="center">
-O FBNPay é um projeto de formulário que simula o preenchimento de um cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+FBNPay is a form project that simulates filling out a credit card, where you can add mask to inputs and update HTML elements with DOM.
 </p>
 
 <p align="center">
